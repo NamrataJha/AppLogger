@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/namratajha/GithubMe/AppLogger/AppLogger.csproj": {}
+  },
+  "projects": {
+    "/Users/namratajha/GithubMe/AppLogger/AppLogger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/namratajha/GithubMe/AppLogger/AppLogger.csproj",
+        "projectName": "AppLogger",
+        "projectPath": "/Users/namratajha/GithubMe/AppLogger/AppLogger.csproj",
+        "packagesPath": "/Users/namratajha/.nuget/packages/",
+        "outputPath": "/Users/namratajha/GithubMe/AppLogger/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/namratajha/GithubMe/AppLogger/NuGet.Config",
+          "/Users/namratajha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://nuget.pkg.github.com/namratajha/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

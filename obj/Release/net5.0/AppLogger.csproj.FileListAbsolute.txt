@@ -1,0 +1,12 @@
+/Users/namratajha/GithubMe/AppLogger/bin/Release/net5.0/AppLogger.deps.json
+/Users/namratajha/GithubMe/AppLogger/bin/Release/net5.0/AppLogger.dll
+/Users/namratajha/GithubMe/AppLogger/bin/Release/net5.0/ref/AppLogger.dll
+/Users/namratajha/GithubMe/AppLogger/bin/Release/net5.0/AppLogger.pdb
+/Users/namratajha/GithubMe/AppLogger/obj/Release/net5.0/AppLogger.csproj.AssemblyReference.cache
+/Users/namratajha/GithubMe/AppLogger/obj/Release/net5.0/AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/namratajha/GithubMe/AppLogger/obj/Release/net5.0/AppLogger.AssemblyInfoInputs.cache
+/Users/namratajha/GithubMe/AppLogger/obj/Release/net5.0/AppLogger.AssemblyInfo.cs
+/Users/namratajha/GithubMe/AppLogger/obj/Release/net5.0/AppLogger.csproj.CoreCompileInputs.cache
+/Users/namratajha/GithubMe/AppLogger/obj/Release/net5.0/AppLogger.dll
+/Users/namratajha/GithubMe/AppLogger/obj/Release/net5.0/ref/AppLogger.dll
+/Users/namratajha/GithubMe/AppLogger/obj/Release/net5.0/AppLogger.pdb
