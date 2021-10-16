@@ -11,7 +11,7 @@
     "/Users/namratajha/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "restore": {
       "projectUniqueName": "/Users/namratajha/GithubMe/AppLogger/AppLogger.csproj",
       "projectName": "AppLogger",
