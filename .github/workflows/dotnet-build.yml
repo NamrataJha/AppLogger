@@ -19,6 +19,6 @@ jobs:
       - name: Build Nuget packages
         run: dotnet build
       - name: Create the nuget package
-        run: dotnet pack MyProject.csproj --configuration Release --output bin/Release/Publish
+        run: dotnet pack AppLogger.csproj --configuration Release --output bin/Release/Publish
       - name: Publish to GitHub
         run: dotnet nuget push bin/Release/Publish/**/*.nupkg --skip-duplicate
