@@ -7,5 +7,9 @@
     <Company>github</Company>
     <RepositoryUrl>https://github.com/NamrataJha/AppLogger</RepositoryUrl>
   </PropertyGroup>
+  
+  <ItemGroup>
+    <Content Include="data0.csv" />
+  </ItemGroup>
 
 </Project>
