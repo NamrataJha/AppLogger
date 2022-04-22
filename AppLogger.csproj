@@ -5,7 +5,13 @@
     <PackageId>AppLogger</PackageId>
     <Authors>namratajha</Authors>
     <Company>github</Company>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
     <RepositoryUrl>https://github.com/NamrataJha/AppLogger</RepositoryUrl>
   </PropertyGroup>
+  
+  <ItemGroup>
+    <Content Include="data0.csv" />
+  </ItemGroup>
   
 </Project>
